@@ -1,4 +1,8 @@
+<p align="center">
+ 
 # Hostel_Management_System
+ 
+</p>
 
 ### Steps to run this PHP Program:-
 * First of all, open the Apache Friends website and download XAMPP for Windows, and install it.
