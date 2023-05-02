@@ -1,5 +1,10 @@
 # Hostel_Management_System
 
+Steps to run this PHP Program:-
+* First of all, open the Apache Friends website and download XAMPP for Windows, and install it.
+
+
+
 ![image](https://user-images.githubusercontent.com/97080055/235763395-5db0dd0c-1e53-4fec-a43b-155c69096ef3.png)
 
 ![image](https://user-images.githubusercontent.com/97080055/235763428-c51aa951-6eaa-478d-97bb-9c2b0af7f915.png)
