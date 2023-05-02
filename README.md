@@ -9,9 +9,11 @@
 /p>
 
 * Place your PHP files in the “htdocs” folder located under the “XAMPP” folder on your drive. The initial path is “your_drive_letter:\xampp\htdocs” for your Web server. Make sure that your PHP files are saved as a “.php” file extension.
-
-<img width="935" alt="image" src="https://user-images.githubusercontent.com/97080055/235766078-8631eb26-6135-4961-97cb-06d9fe300945.png">
-
+ 
+<p align="center">
+<img width="717" alt="image" src="https://user-images.githubusercontent.com/97080055/235766078-8631eb26-6135-4961-97cb-06d9fe300945.png">
+/p>
+ 
 * Open up any web browser and enter “localhost/filename”. This will open the list of all the files and folders stored under the “htdocs” folder on your computer. Click on the link to a PHP file and open it to run a program.
 
 Example: The file “hostel.php” file is placed inside the “htdocs” folder. If you want to run it, open any web browser and enter “localhost/demo.php” and press enter. Your program will run.
