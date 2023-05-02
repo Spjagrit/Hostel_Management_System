@@ -4,7 +4,9 @@
 * First of all, open the Apache Friends website and download XAMPP for Windows, and install it.
 * Start the XAMPP Program Control Panel. Click on the “Start”  button next to the “Apache” to start your Apache Web Server. Also, start “MySQL” if your PHP programs depend on a MySQL database to run.
 
+<p align="center">
  <img width="717" alt="image" src="https://user-images.githubusercontent.com/97080055/235765611-552f54bb-554d-4fcf-be07-0a5a14e425bf.png">
+/p>
 
 * Place your PHP files in the “htdocs” folder located under the “XAMPP” folder on your drive. The initial path is “your_drive_letter:\xampp\htdocs” for your Web server. Make sure that your PHP files are saved as a “.php” file extension.
 
